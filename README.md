@@ -7,6 +7,7 @@ Installation
 pip install hunter-client
 
 Usage
+
 Insert your API key in line:
 api_key = 'YOUR_API_KEY'
 
